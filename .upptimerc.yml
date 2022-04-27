@@ -8,6 +8,11 @@ assignees:
 workflowSchedule:
   uptime: "*/10 * * * *"
 
+status-website:
+  name: Service Status
+  logoUrl: https://uploads-ssl.webflow.com/60effac01fd9cd7375759e1f/60f01a41b9d4d5aceccc919e_contactify_weiss%20klein-p-500.png
+  cname: status.contactify.biz
+
 sites:
 # Public
   - name: Contactify Website
