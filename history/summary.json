@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 138
+      "2022-04-27": 164
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 138
+      "2022-04-27": 163
     }
   },
   {
@@ -387,18 +387,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api-test.ipt.ch",
     "slug": "dev-ipt-admin-api",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 138
+      "2022-04-27": 163
     }
   },
   {
@@ -928,12 +928,12 @@
     "url": "https://contacts-admin-test.swica.ch",
     "icon": "https://favicons.githubusercontent.com/contacts-admin-test.swica.ch",
     "slug": "dev-swica-admin-frontend",
-    "status": "up",
-    "uptime": "23.16%",
-    "uptimeDay": "23.16%",
-    "uptimeWeek": "23.16%",
-    "uptimeMonth": "23.16%",
-    "uptimeYear": "23.16%",
+    "status": "down",
+    "uptime": "35.10%",
+    "uptimeDay": "35.10%",
+    "uptimeWeek": "35.10%",
+    "uptimeMonth": "35.10%",
+    "uptimeYear": "35.10%",
     "time": 43,
     "timeDay": 43,
     "timeWeek": 43,
