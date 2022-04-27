@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api.contactify.biz",
     "slug": "contactify-platform-api",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.22%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api.ipt.ch",
     "slug": "ipt-platform-api",
     "status": "down",
-    "uptime": "23.70%",
-    "uptimeDay": "23.70%",
-    "uptimeWeek": "23.70%",
-    "uptimeMonth": "23.70%",
-    "uptimeYear": "23.70%",
+    "uptime": "17.40%",
+    "uptimeDay": "17.40%",
+    "uptimeWeek": "17.40%",
+    "uptimeMonth": "17.40%",
+    "uptimeYear": "17.40%",
     "time": 1106,
     "timeDay": 1106,
     "timeWeek": 1106,
     "timeMonth": 1106,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api.contactify.biz",
     "slug": "contactify-admin-api",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.14%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 1150,
     "timeDay": 1150,
     "timeWeek": 1150,
     "timeMonth": 1150,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -209,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api.ipt.ch",
     "slug": "ipt-admin-api",
     "status": "down",
-    "uptime": "2.04%",
-    "uptimeDay": "2.04%",
-    "uptimeWeek": "2.04%",
-    "uptimeMonth": "2.04%",
-    "uptimeYear": "2.04%",
+    "uptime": "1.01%",
+    "uptimeDay": "1.01%",
+    "uptimeWeek": "1.01%",
+    "uptimeMonth": "1.01%",
+    "uptimeYear": "1.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -247,18 +247,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api-test.contactify.biz",
     "slug": "contactify-platform-api",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.16%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -321,18 +321,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api-test.ipt.ch",
     "slug": "ipt-platform-api",
     "status": "down",
-    "uptime": "21.65%",
-    "uptimeDay": "21.65%",
-    "uptimeWeek": "21.65%",
-    "uptimeMonth": "21.65%",
-    "uptimeYear": "21.65%",
+    "uptime": "16.94%",
+    "uptimeDay": "16.94%",
+    "uptimeWeek": "16.94%",
+    "uptimeMonth": "16.94%",
+    "uptimeYear": "16.94%",
     "time": 1106,
     "timeDay": 1106,
     "timeWeek": 1106,
     "timeMonth": 1106,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -395,11 +395,11 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api-test.ipt.ch",
     "slug": "ipt-admin-api",
     "status": "down",
-    "uptime": "1.38%",
-    "uptimeDay": "1.38%",
-    "uptimeWeek": "1.38%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "1.38%",
+    "uptime": "1.33%",
+    "uptimeDay": "1.33%",
+    "uptimeWeek": "1.33%",
+    "uptimeMonth": "1.33%",
+    "uptimeYear": "1.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -433,18 +433,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api-test.contactify.biz",
     "slug": "contactify-admin-api",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.07%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 1150,
     "timeDay": 1150,
     "timeWeek": 1150,
     "timeMonth": 1150,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -453,18 +453,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api-test.swica.ch",
     "slug": "contactify-admin-api",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "uptime": "99.06%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 1150,
     "timeDay": 1150,
     "timeWeek": 1150,
     "timeMonth": 1150,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -473,18 +473,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api.swica.ch",
     "slug": "contactify-admin-api",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.06%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 1150,
     "timeDay": 1150,
     "timeWeek": 1150,
     "timeMonth": 1150,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -493,18 +493,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api.swica.ch",
     "slug": "contactify-platform-api",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.10%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
@@ -513,18 +513,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api-test.swica.ch",
     "slug": "contactify-platform-api",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.09%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-04-27": 1
+      "2022-04-27": 2
     }
   },
   {
