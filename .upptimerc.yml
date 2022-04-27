@@ -12,6 +12,10 @@ status-website:
   name: Service Status
   logoUrl: https://contacts.contactify.biz/assets/logos/black.svg
   cname: status.contactify.biz
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 sites:
 # Public
