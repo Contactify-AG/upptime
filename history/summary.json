@@ -203,18 +203,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api.ipt.ch",
     "slug": "prod-ipt-admin-api",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 28
+      "2022-04-27": 95
     }
   },
   {
@@ -313,18 +313,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-api-test.ipt.ch",
     "slug": "dev-ipt-platform-api",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 28
+      "2022-04-27": 95
     }
   },
   {
@@ -387,18 +387,18 @@
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api-test.ipt.ch",
     "slug": "dev-ipt-admin-api",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 28
+      "2022-04-27": 94
     }
   },
   {
@@ -928,19 +928,19 @@
     "url": "https://contacts-admin-test.swica.ch",
     "icon": "https://favicons.githubusercontent.com/contacts-admin-test.swica.ch",
     "slug": "dev-swica-admin-frontend",
-    "status": "down",
-    "uptime": "30.23%",
-    "uptimeDay": "30.23%",
-    "uptimeWeek": "30.23%",
-    "uptimeMonth": "30.23%",
-    "uptimeYear": "30.23%",
-    "time": 23,
-    "timeDay": 23,
-    "timeWeek": 23,
-    "timeMonth": 23,
-    "timeYear": 23,
+    "status": "up",
+    "uptime": "9.34%",
+    "uptimeDay": "9.34%",
+    "uptimeWeek": "9.34%",
+    "uptimeMonth": "9.34%",
+    "uptimeYear": "9.34%",
+    "time": 44,
+    "timeDay": 44,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
     "dailyMinutesDown": {
-      "2022-04-27": 19
+      "2022-04-27": 85
     }
   }
 ]
