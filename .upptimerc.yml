@@ -28,9 +28,6 @@ sites:
     url: https://contacts-admin-api-test.contactify.biz
   - name: Contactify Admin Frontend
     url: https://contacts-admin-test.contactify.biz
-# Test
-  - name: Test down site
-    url: https://thissitedoesnotexist.koj.co/
 
 
 workflowSchedule:
