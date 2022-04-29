@@ -5,9 +5,6 @@ assignees:
   - cleverer
   - jeniffer9
 
-workflowSchedule:
-  uptime: "*/10 * * * *"
-
 status-website:
   name: Service Status
   logoUrl: https://contacts.contactify.biz/assets/logos/black.svg
@@ -22,82 +19,23 @@ sites:
   - name: Contactify Website
     url: https://www.contactify.biz
 
-
-# Internal
-  - name: Bitwarden
-    url: https://vaultwarden.contactify.biz/alive
-
-
 # Digital Business Card
 ## Backends
 ### contactify-platform-api-prod
   - name: PROD Contactify Platform API
     url: https://contacts-api.contactify.biz
-  - name: PROD Ruag Platform API
-    url: https://contacts-api.ruag.com
-  - name: PROD Beyond Gravity Platform API
-    url: https://contacts-api.beyondgravity.com
-  - name: PROD FIFA Platform API
-    url: https://contacts-api.fifa.org
-  - name: PROD IPT Platform API
-    url: https://contacts-api.ipt.ch
-  - name: PROD UMB Platform API
-    url: https://contacts-api.umb.ch
 
 ### contactify-admin-api-prod
   - name: PROD Contactify Admin API
     url: https://contacts-admin-api.contactify.biz
-  - name: PROD Beyond Gravity Admin API
-    url: https://contacts-admin-api.beyondgravity.com
-  - name: PROD FIFA Admin API
-    url: https://contacts-admin-api.fifa.org
-  - name: PROD IPT Admin API
-    url: https://contacts-admin-api.ipt.ch
-  - name: PROD UMB Admin API
-    url: https://contacts-admin-api.umb.ch
 
 ### contactify-platform-api-dev
   - name: DEV Contactify Platform API
     url: https://contacts-api-test.contactify.biz
-  - name: DEV Ruag Platform API
-    url: https://contacts-api-test.ruag.com
-  - name: DEV Beyond Gravity Platform API
-    url: https://contacts-api-test.beyondgravity.com
-  - name: DEV FIFA Platform API
-    url: https://contacts-api-test.fifa.org
-  - name: DEV IPT Platform API
-    url: https://contacts-api-test.ipt.ch
-  - name: DEV UMB Platform API
-    url: https://contacts-api-test.umb.ch
 
 ### contactify-admin-api-dev
-  - name: DEV Beyond Gravity Admin API
-    url: https://contacts-admin-api-test.beyondgravity.com
-  - name: DEV FIFA Admin API
-    url: https://contacts-admin-api-test.fifa.org
-  - name: DEV IPT Admin API
-    url: https://contacts-admin-api-test.ipt.ch
-  - name: DEV UMB Admin API
-    url: https://contacts-admin-api-test.umb.ch
   - name: DEV Contactify Admin API
     url: https://contacts-admin-api-test.contactify.biz
-
-### swica-admin-api-prod
-  - name: PROD SWICA Admin API
-    url: https://contacts-admin-api-test.swica.ch/api/masterdata/countries
-
-### swica-admin-api-dev
-  - name: DEV SWICA Admin API
-    url: https://contacts-admin-api.swica.ch/api/masterdata/countries
-
-### swica-platform-api-prod
-  - name: PROD SWICA Platform API
-    url: https://contacts-api.swica.ch/api/masterdata/countries
-
-### swica-platform-api-dev
-  - name: DEV SWICA Platform API
-    url: https://contacts-api-test.swica.ch/api/masterdata/countries
-
 
 ## Frontends
 ### contactify-prod
@@ -110,56 +48,3 @@ sites:
     url: https://contacts-test.contactify.biz
   - name: DEV Contactify Admin Frontend
     url: https://contacts-admin-test.contactify.biz
-### fifa-prod
-  - name: PROD FIFA Platform Frontend
-    url: https://contacts.fifa.org
-  - name: PROD FIFA Admin Frontend
-    url: https://contacts-admin.fifa.org
-### fifa-dev
-  - name: DEV FIFA Platform Frontend
-    url: https://contacts-test.fifa.org
-  - name: DEV FIFA Admin Frontend
-    url: https://contacts-admin-test.fifa.org
-### ipt-prod
-  - name: PROD IPT Platform Frontend
-    url: https://contacts.ipt.ch
-### ipt-dev
-  - name: DEV IPT Platform Frontend
-    url: https://contacts-test.ipt.ch
-### ruag-prod
-  - name: PROD RUAG Platform Frontend
-    url: https://contacts.ruag.com
-  - name: PROD Beyond Gravity Platform Frontend
-    url: https://contacts.beyondgravity.com
-  - name: PROD Beyond Gravity Admin Frontend
-    url: https://contacts-admin.beyondgravity.com
-### ruag-dev
-  - name: DEV Ruag Platform Frontend
-    url: https://contacts-test.ruag.com
-  - name: DEV Beyond Gravity Platform Frontend
-    url: https://contacts-test.beyondgravity.com
-  - name: DEV FIFA Admin Frontend
-    url: https://contacts-admin-test.beyondgravity.com
-### umb-prod
-  - name: PROD MB Platform Frontend
-    url: https://contacts.umb.ch
-  - name: PROD UMB Admin Frontend
-    url: https://contacts-admin.umb.ch
-### umb-dev
-  - name: DEV UMB Platform Frontend
-    url: https://contacts-test.umb.ch
-  - name: DEV UMB Admin Frontend
-    url: https://contacts-admin-test.umb.ch
-
-
-## Old Vercel Deployments
-### SWICA PROD
-  - name: PROD SWICA Platform Frontend
-    url: https://contacts.swica.ch
-  - name: PROD SWICA Admin Frontend
-    url: https://contacts-admin.swica.ch
-### SWICA DEV
-  - name: DEV SWICA Platform Frontend
-    url: https://contacts-test.swica.ch
-#  - name: DEV SWICA Admin Frontend
-#    url: https://contacts-admin-test.swica.ch
