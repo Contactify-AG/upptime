@@ -31,11 +31,13 @@ sites:
 
 ### contactify-platform-api-dev
   - name: DEV Contactify Platform API
-    url: https://contacts-api-test.contactify.biz
+    url: https://contacts-api-test.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ### contactify-admin-api-dev
   - name: DEV Contactify Admin API
-    url: https://contacts-admin-api-test.contactify.biz
+    url: https://contacts-admin-api-test.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ## Frontends
 ### contactify-prod
