@@ -44,9 +44,9 @@
     "url": "https://contacts-admin-api.contactify.biz",
     "icon": "https://favicons.githubusercontent.com/contacts-admin-api.contactify.biz",
     "slug": "prod-contactify-admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -56,6 +56,7 @@
     "timeMonth": 980,
     "timeYear": 1004,
     "dailyMinutesDown": {
+      "2022-06-17": 0,
       "2022-05-07": 49
     }
   },
