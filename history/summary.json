@@ -158,19 +158,19 @@
     "url": "https://contacts-test.contactify.biz",
     "icon": "https://favicons.githubusercontent.com/contacts-test.contactify.biz",
     "slug": "dev-contactify-platform-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 278,
-    "timeWeek": 352,
-    "timeMonth": 356,
-    "timeYear": 394,
+    "time": 396,
+    "timeDay": 417,
+    "timeWeek": 378,
+    "timeMonth": 363,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-07-04": 0
+      "2022-07-04": 2
     }
   },
   {
