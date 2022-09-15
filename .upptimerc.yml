@@ -23,11 +23,13 @@ sites:
 ## Backends
 ### contactify-platform-api-prod
   - name: PROD Contactify Platform API
-    url: https://contacts-api.contactify.biz
+    url: https://contacts-api.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ### contactify-admin-api-prod
   - name: PROD Contactify Admin API
-    url: https://contacts-admin-api.contactify.biz
+    url: https://contacts-admin-api.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ### contactify-platform-api-dev
   - name: DEV Contactify Platform API
