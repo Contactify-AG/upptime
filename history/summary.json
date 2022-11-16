@@ -76,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api-test.contactify.biz.ico",
     "slug": "dev-contactify-platform-api",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 1688,
     "timeDay": 1156,
     "timeWeek": 1198,
@@ -237,9 +237,9 @@
     "url": "https://www.passsource.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/www.passsource.com.ico",
     "slug": "wallet-pass-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.18%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -249,6 +249,7 @@
     "timeMonth": 2691,
     "timeYear": 2691,
     "dailyMinutesDown": {
+      "2022-11-16": 0,
       "2022-11-15": 26,
       "2022-11-07": 21
     }
