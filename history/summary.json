@@ -237,9 +237,9 @@
     "url": "https://www.passsource.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/www.passsource.com.ico",
     "slug": "wallet-pass-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -249,6 +249,7 @@
     "timeMonth": 2843,
     "timeYear": 2843,
     "dailyMinutesDown": {
+      "2022-11-18": 0,
       "2022-11-15": 26,
       "2022-11-07": 21
     }
