@@ -82,7 +82,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
     "time": 1665,
-    "timeDay": 1335,
+    "timeDay": 1347,
     "timeWeek": 1363,
     "timeMonth": 1267,
     "timeYear": 1665,
@@ -196,9 +196,9 @@
     "url": "https://contacts-test.contactify.biz",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-test.contactify.biz.ico",
     "slug": "dev-contactify-platform-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
@@ -208,6 +208,7 @@
     "timeMonth": 929,
     "timeYear": 648,
     "dailyMinutesDown": {
+      "2022-11-30": 0,
       "2022-11-22": 120,
       "2022-09-28": 57,
       "2022-07-04": 2
@@ -247,7 +248,7 @@
     "time": 4243,
     "timeDay": 421,
     "timeWeek": 6691,
-    "timeMonth": 4626,
+    "timeMonth": 4356,
     "timeYear": 4243,
     "dailyMinutesDown": {
       "2022-11-19": 21,
