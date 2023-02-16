@@ -43,11 +43,22 @@ sites:
     url: https://contacts.contactify.biz
   - name: PROD Contactify Admin Frontend
     url: https://contacts-admin.contactify.biz
+
 ### contactify-dev
   - name: DEV Contactify Platform Frontend
     url: https://contacts-test.contactify.biz
   - name: DEV Contactify Admin Frontend
     url: https://contacts-admin-test.contactify.biz
+
+## SCIM
+## contactify-scim-api-prod
+#  - name: PROD Contactify SCIM API
+#    url: https://scim-api.contactify.biz/api/health
+#    __dangerous__body_degraded: "Degraded"
+## contactify-scim-api-dev
+  - name: DEV Contactify SCIM API
+    url: https://scim-api-test.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ## External
 ### Passource
