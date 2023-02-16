@@ -27,7 +27,7 @@
     "url": "https://contacts-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api.contactify.biz.ico",
     "slug": "prod-contactify-platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
