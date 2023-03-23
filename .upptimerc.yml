@@ -52,12 +52,18 @@ sites:
 
 ## SCIM
 ## contactify-scim-api-prod
-#  - name: PROD Contactify SCIM API
-#    url: https://scim-api.contactify.biz/api/health
-#    __dangerous__body_degraded: "Degraded"
+  - name: PROD Contactify SCIM API
+    url: https://scim-api.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+  - name: PROD Raiffeisen SCIM API
+    url: https://raiffeisen.scim-api.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 ## contactify-scim-api-dev
   - name: DEV Contactify SCIM API
     url: https://scim-api-test.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+  - name: DEV Raiffeisen SCIM API
+    url: https://raiffeisen.scim-api-test.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## External
