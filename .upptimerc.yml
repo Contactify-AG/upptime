@@ -27,13 +27,23 @@ sites:
     url: https://contacts-admin-api.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
-### contactify-platform-api-dev
+### contactify-platform-api-develop
   - name: DEV Contactify Platform API
+    url: https://contacts-api.dev.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+
+### contactify-admin-api-develop
+  - name: DEV Contactify Admin API
+    url: https://contacts-admin-api.dev.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+
+### contactify-platform-api-dev
+  - name: STAGE Contactify Platform API
     url: https://contacts-api-test.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ### contactify-admin-api-dev
-  - name: DEV Contactify Admin API
+  - name: STAGE Contactify Admin API
     url: https://contacts-admin-api-test.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
@@ -44,10 +54,16 @@ sites:
   - name: PROD Contactify Admin Frontend
     url: https://contacts-admin.contactify.biz
 
-### contactify-dev
+### contactify-develop
   - name: DEV Contactify Platform Frontend
-    url: https://contacts-test.contactify.biz
+    url: https://contacts.dev.contactify.biz
   - name: DEV Contactify Admin Frontend
+    url: https://contacts-admin.dev.contactify.biz
+
+### contactify-dev
+  - name: STAGE Contactify Platform Frontend
+    url: https://contacts-test.contactify.biz
+  - name: STAGE Contactify Admin Frontend
     url: https://contacts-admin-test.contactify.biz
 
 ## SCIM
@@ -56,8 +72,13 @@ sites:
     url: https://scim-api.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
-## contactify-scim-api-dev
+## contactify-scim-api-develop
   - name: DEV Contactify SCIM API
+    url: https://scim-api.dev.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+
+## contactify-scim-api-dev
+  - name: STAGE Contactify SCIM API
     url: https://scim-api-test.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
