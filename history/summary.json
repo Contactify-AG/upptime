@@ -184,18 +184,20 @@
     "url": "https://contacts-admin-api-test.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-api-test.contactify.biz.ico",
     "slug": "stage-contactify-admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1702,
-    "timeDay": 3478,
-    "timeWeek": 1439,
-    "timeMonth": 1702,
-    "timeYear": 1702,
-    "dailyMinutesDown": {}
+    "time": 1620,
+    "timeDay": 2099,
+    "timeWeek": 1337,
+    "timeMonth": 1620,
+    "timeYear": 1620,
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "PROD Contactify Platform Frontend",
