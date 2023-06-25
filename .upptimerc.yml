@@ -39,12 +39,12 @@ sites:
 
 ### contactify-platform-api-dev
   - name: STAGE Contactify Platform API
-    url: https://contacts-api-test.contactify.biz/api/health
+    url: https://contacts-api.stage.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ### contactify-admin-api-dev
   - name: STAGE Contactify Admin API
-    url: https://contacts-admin-api-test.contactify.biz/api/health
+    url: https://contacts-admin-api.stage.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## Frontends
@@ -79,7 +79,7 @@ sites:
 
 ## contactify-scim-api-dev
   - name: STAGE Contactify SCIM API
-    url: https://scim-api-test.contactify.biz/api/health
+    url: https://scim-api.stage.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## External
