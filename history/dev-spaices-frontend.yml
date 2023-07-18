@@ -1,7 +1,7 @@
 url: https://contactify.dev.spaices.app
-status: up
-code: 200
-responseTime: 560
-lastUpdated: 2023-07-18T17:13:00.916Z
+status: down
+code: 503
+responseTime: 335
+lastUpdated: 2023-07-18T19:03:20.986Z
 startTime: Tue Jul 18 2023 16:38:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
