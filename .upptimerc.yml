@@ -47,6 +47,16 @@ sites:
   - name: DEV Spaices Frontend
     url: https://contactify.dev.spaices.app
 
+### contactify-login-prod
+  - name: PROD Spaices Frontend
+    url: https://login.spaices.app
+### contactify-login-stage
+  - name: STAGE Spaices Frontend
+    url: https://login.stage.spaices.app
+### contactify-login-develop
+  - name: DEV Spaices Frontend
+    url: https://login.dev.spaices.app
+
 # General
 ## Backends
 ### contactify-platform-api-prod
