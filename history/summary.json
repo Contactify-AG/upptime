@@ -170,18 +170,20 @@
     "url": "https://contactify.spaices.app",
     "icon": "https://icons.duckduckgo.com/ip3/contactify.spaices.app.ico",
     "slug": "prod-spaices-frontend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 477,
     "timeDay": 477,
     "timeWeek": 477,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-18": 1
+    }
   },
   {
     "name": "STAGE Spaices Frontend",
@@ -189,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/contactify.stage.spaices.app.ico",
     "slug": "stage-spaices-frontend",
     "status": "down",
-    "uptime": "98.64%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptime": "93.68%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "93.68%",
     "time": 449,
     "timeDay": 449,
     "timeWeek": 449,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2023-07-18": 2
+      "2023-07-18": 10
     }
   },
   {
@@ -209,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/contactify.dev.spaices.app.ico",
     "slug": "dev-spaices-frontend",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptime": "93.71%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "93.71%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "93.71%",
     "time": 449,
     "timeDay": 449,
     "timeWeek": 449,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2023-07-18": 2
+      "2023-07-18": 10
     }
   },
   {
@@ -229,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.spaices.app.ico",
     "slug": "prod-login",
     "status": "down",
-    "uptime": "98.55%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.55%",
+    "uptime": "92.18%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "92.18%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "92.18%",
     "time": 3311,
     "timeDay": 3311,
     "timeWeek": 3311,
     "timeMonth": 3311,
     "timeYear": 3311,
     "dailyMinutesDown": {
-      "2023-07-18": 2
+      "2023-07-18": 9
     }
   },
   {
@@ -249,18 +251,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.stage.spaices.app.ico",
     "slug": "stage-login",
     "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptime": "92.22%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "92.22%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "92.22%",
     "time": 561,
     "timeDay": 561,
     "timeWeek": 561,
     "timeMonth": 561,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2023-07-18": 2
+      "2023-07-18": 9
     }
   },
   {
@@ -269,18 +271,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.dev.spaices.app.ico",
     "slug": "dev-login",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "92.27%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "92.27%",
     "time": 639,
     "timeDay": 639,
     "timeWeek": 639,
     "timeMonth": 639,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-07-18": 2
+      "2023-07-18": 9
     }
   },
   {
