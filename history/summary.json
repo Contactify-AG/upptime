@@ -171,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/contactify.spaices.app.ico",
     "slug": "prod-spaices-frontend",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "85.93%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "85.93%",
+    "uptimeMonth": "85.93%",
+    "uptimeYear": "85.93%",
     "time": 477,
     "timeDay": 477,
     "timeWeek": 477,
     "timeMonth": 477,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2023-07-18": 1
+      "2023-07-18": 25
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/contactify.stage.spaices.app.ico",
     "slug": "stage-spaices-frontend",
     "status": "down",
-    "uptime": "93.68%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "93.68%",
-    "uptimeMonth": "93.68%",
-    "uptimeYear": "93.68%",
+    "uptime": "80.79%",
+    "uptimeDay": "80.79%",
+    "uptimeWeek": "80.79%",
+    "uptimeMonth": "80.79%",
+    "uptimeYear": "80.79%",
     "time": 449,
     "timeDay": 449,
     "timeWeek": 449,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2023-07-18": 10
+      "2023-07-18": 34
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "https://contactify.dev.spaices.app",
     "icon": "https://icons.duckduckgo.com/ip3/contactify.dev.spaices.app.ico",
     "slug": "dev-spaices-frontend",
-    "status": "down",
-    "uptime": "93.71%",
-    "uptimeDay": "93.71%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "93.71%",
-    "time": 449,
-    "timeDay": 449,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "status": "up",
+    "uptime": "81.16%",
+    "uptimeDay": "81.16%",
+    "uptimeWeek": "81.16%",
+    "uptimeMonth": "81.16%",
+    "uptimeYear": "81.16%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2023-07-18": 10
+      "2023-07-18": 34
     }
   },
   {
@@ -230,19 +230,19 @@
     "url": "https://login.spaices.app",
     "icon": "https://icons.duckduckgo.com/ip3/login.spaices.app.ico",
     "slug": "prod-login",
-    "status": "down",
-    "uptime": "92.18%",
-    "uptimeDay": "92.18%",
-    "uptimeWeek": "92.18%",
-    "uptimeMonth": "92.18%",
-    "uptimeYear": "92.18%",
-    "time": 3311,
-    "timeDay": 3311,
-    "timeWeek": 3311,
-    "timeMonth": 3311,
-    "timeYear": 3311,
+    "status": "up",
+    "uptime": "76.78%",
+    "uptimeDay": "76.78%",
+    "uptimeWeek": "76.78%",
+    "uptimeMonth": "76.78%",
+    "uptimeYear": "76.78%",
+    "time": 5772,
+    "timeDay": 5772,
+    "timeWeek": 5772,
+    "timeMonth": 5772,
+    "timeYear": 5772,
     "dailyMinutesDown": {
-      "2023-07-18": 9
+      "2023-07-18": 34
     }
   },
   {
@@ -250,19 +250,19 @@
     "url": "https://login.stage.spaices.app",
     "icon": "https://icons.duckduckgo.com/ip3/login.stage.spaices.app.ico",
     "slug": "stage-login",
-    "status": "down",
-    "uptime": "92.22%",
-    "uptimeDay": "92.22%",
-    "uptimeWeek": "92.22%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "92.22%",
-    "time": 561,
-    "timeDay": 561,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "status": "up",
+    "uptime": "76.78%",
+    "uptimeDay": "76.78%",
+    "uptimeWeek": "76.78%",
+    "uptimeMonth": "76.78%",
+    "uptimeYear": "76.78%",
+    "time": 534,
+    "timeDay": 534,
+    "timeWeek": 534,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {
-      "2023-07-18": 9
+      "2023-07-18": 34
     }
   },
   {
@@ -270,19 +270,19 @@
     "url": "https://login.dev.spaices.app",
     "icon": "https://icons.duckduckgo.com/ip3/login.dev.spaices.app.ico",
     "slug": "dev-login",
-    "status": "down",
-    "uptime": "92.27%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "92.27%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "92.27%",
-    "time": 639,
-    "timeDay": 639,
-    "timeWeek": 639,
-    "timeMonth": 639,
-    "timeYear": 639,
+    "status": "up",
+    "uptime": "76.78%",
+    "uptimeDay": "76.78%",
+    "uptimeWeek": "76.78%",
+    "uptimeMonth": "76.78%",
+    "uptimeYear": "76.78%",
+    "time": 588,
+    "timeDay": 588,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2023-07-18": 9
+      "2023-07-18": 34
     }
   },
   {
