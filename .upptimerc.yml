@@ -16,6 +16,38 @@ sites:
     url: https://www.contactify.biz
 
 # Digital Business Card
+## Frontends
+### contactify-prod
+  - name: PROD Contactify Platform Frontend
+    url: https://contacts.contactify.biz
+  - name: PROD Contactify Admin Frontend
+    url: https://contacts-admin.contactify.biz
+
+### contactify-develop
+  - name: DEV Contactify Platform Frontend
+    url: https://contacts.dev.contactify.biz
+  - name: DEV Contactify Admin Frontend
+    url: https://contacts-admin.dev.contactify.biz
+
+### contactify-dev
+  - name: STAGE Contactify Platform Frontend
+    url: https://contacts-test.contactify.biz
+  - name: STAGE Contactify Admin Frontend
+    url: https://contacts-admin-test.contactify.biz
+
+# Spaices
+## Gateway
+### spaices-gw-prod
+  - name: PROD Spaices Frontend
+    url: https://contactify.spaices.app
+### spaices-gw-stage
+  - name: STAGE Spaices Frontend
+    url: https://contactify.stage.spaices.app
+### spaices-gw-develop
+  - name: DEV Spaices Frontend
+    url: https://contactify.dev.spaices.app
+
+# General
 ## Backends
 ### contactify-platform-api-prod
   - name: PROD Contactify Platform API
@@ -46,25 +78,6 @@ sites:
   - name: STAGE Contactify Admin API
     url: https://contacts-admin-api.stage.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
-
-## Frontends
-### contactify-prod
-  - name: PROD Contactify Platform Frontend
-    url: https://contacts.contactify.biz
-  - name: PROD Contactify Admin Frontend
-    url: https://contacts-admin.contactify.biz
-
-### contactify-develop
-  - name: DEV Contactify Platform Frontend
-    url: https://contacts.dev.contactify.biz
-  - name: DEV Contactify Admin Frontend
-    url: https://contacts-admin.dev.contactify.biz
-
-### contactify-dev
-  - name: STAGE Contactify Platform Frontend
-    url: https://contacts-test.contactify.biz
-  - name: STAGE Contactify Admin Frontend
-    url: https://contacts-admin-test.contactify.biz
 
 ## SCIM
 ## contactify-scim-api-prod
