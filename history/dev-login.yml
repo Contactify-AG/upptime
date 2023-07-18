@@ -1,7 +1,7 @@
 url: https://login.dev.spaices.app
-status: up
-code: 200
-responseTime: 841
-lastUpdated: 2023-07-18T17:13:04.384Z
+status: down
+code: 503
+responseTime: 436
+lastUpdated: 2023-07-18T19:03:48.083Z
 startTime: Tue Jul 18 2023 17:13:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
