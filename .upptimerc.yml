@@ -51,13 +51,13 @@ sites:
     url: https://contactify.dev.spaices.app
 
 ### contactify-login-prod
-  - name: PROD Spaices Frontend
+  - name: PROD Login
     url: https://login.spaices.app
 ### contactify-login-stage
-  - name: STAGE Spaices Frontend
+  - name: STAGE Login
     url: https://login.stage.spaices.app
 ### contactify-login-develop
-  - name: DEV Spaices Frontend
+  - name: DEV Login
     url: https://login.dev.spaices.app
 
 # General
