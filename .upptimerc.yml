@@ -3,7 +3,7 @@ repo: upptime
 
 status-website:
   name: Service Status
-  logoUrl: https://contacts.contactify.biz/assets/logos/black.svg
+  logoUrl: https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcL3NWUktqc3lFajRhaHFYcTQ5clV4LnN2ZyJ9:frontify:fcRM4eHeqTZ9GXlCAygoHrO1nLQNTw400fP2JYBO-3Y
   cname: status.contactify.biz
   robotsText: "User-agent: * \n Disallow: /"
   metaTags:
