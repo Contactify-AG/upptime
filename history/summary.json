@@ -150,19 +150,19 @@
     "url": "https://contacts-admin-test.contactify.biz",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-test.contactify.biz.ico",
     "slug": "stage-contactify-admin-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 703,
-    "timeDay": 723,
-    "timeWeek": 805,
+    "timeDay": 733,
+    "timeWeek": 797,
     "timeMonth": 729,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-08-16": 0
+      "2023-08-16": 7
     }
   },
   {
