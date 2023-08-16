@@ -44,9 +44,9 @@
     "url": "https://contacts.contactify.biz",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.contactify.biz.ico",
     "slug": "prod-contactify-platform-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -56,6 +56,7 @@
     "timeMonth": 721,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2023-08-16": 0,
       "2022-09-28": 58,
       "2022-09-07": 60
     }
@@ -151,19 +152,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-test.contactify.biz.ico",
     "slug": "stage-contactify-admin-frontend",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 703,
     "timeDay": 733,
     "timeWeek": 797,
     "timeMonth": 729,
     "timeYear": 703,
-    "dailyMinutesDown": {
-      "2023-08-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PROD Spaices Frontend",
