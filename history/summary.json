@@ -228,9 +228,9 @@
     "url": "https://login.spaices.app",
     "icon": "https://icons.duckduckgo.com/ip3/login.spaices.app.ico",
     "slug": "prod-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -240,6 +240,7 @@
     "timeMonth": 559,
     "timeYear": 887,
     "dailyMinutesDown": {
+      "2023-09-01": 0,
       "2023-07-18": 34
     }
   },
@@ -373,9 +374,9 @@
     "slug": "dev-contactify-admin-api",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1370,
     "timeDay": 732,
@@ -383,7 +384,6 @@
     "timeMonth": 806,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2023-09-01": 12,
       "2023-05-19": 125,
       "2023-05-18": 170,
       "2023-04-15": 90,
@@ -439,7 +439,7 @@
     "time": 1149,
     "timeDay": 1203,
     "timeWeek": 1068,
-    "timeMonth": 1070,
+    "timeMonth": 1075,
     "timeYear": 1149,
     "dailyMinutesDown": {
       "2023-06-25": 33,
