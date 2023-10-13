@@ -543,18 +543,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/walletpass.api.contactify.biz.ico",
     "slug": "prod-contactify-wallet-pass-api",
     "status": "down",
-    "uptime": "1.74%",
-    "uptimeDay": "1.74%",
-    "uptimeWeek": "1.74%",
-    "uptimeMonth": "1.74%",
-    "uptimeYear": "1.74%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 677,
     "timeDay": 677,
     "timeWeek": 677,
     "timeMonth": 677,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2023-10-13": 2
+      "2023-10-13": 8
     }
   },
   {
@@ -562,19 +562,19 @@
     "url": "https://walletpass.api.stage.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/walletpass.api.stage.contactify.biz.ico",
     "slug": "stage-contactify-wallet-pass-api",
-    "status": "down",
-    "uptime": "1.59%",
-    "uptimeDay": "1.59%",
-    "uptimeWeek": "1.59%",
-    "uptimeMonth": "1.59%",
-    "uptimeYear": "1.59%",
-    "time": 666,
-    "timeDay": 666,
-    "timeWeek": 666,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "status": "up",
+    "uptime": "9.64%",
+    "uptimeDay": "9.64%",
+    "uptimeWeek": "9.64%",
+    "uptimeMonth": "9.64%",
+    "uptimeYear": "9.64%",
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2023-10-13": 2
+      "2023-10-13": 7
     }
   },
   {
@@ -582,19 +582,19 @@
     "url": "https://walletpass.api.dev.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/walletpass.api.dev.contactify.biz.ico",
     "slug": "dev-contactify-wallet-pass-api",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 588,
-    "timeDay": 563,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 619,
+    "timeDay": 618,
+    "timeWeek": 619,
+    "timeMonth": 619,
+    "timeYear": 619,
     "dailyMinutesDown": {
-      "2023-10-13": 25
+      "2023-10-13": 31
     }
   },
   {
