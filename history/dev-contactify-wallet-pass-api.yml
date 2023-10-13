@@ -1,7 +1,7 @@
 url: https://wallet-pass-api.dev.contactify.biz/api/health
-status: down
-code: 403
-responseTime: 532
-lastUpdated: 2023-10-13T19:31:50.767Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2023-10-13T19:56:17.772Z
 startTime: 2023-10-10T14:49:36.285Z
 generator: Upptime <https://github.com/upptime/upptime>
