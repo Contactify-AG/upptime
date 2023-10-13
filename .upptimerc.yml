@@ -110,18 +110,18 @@ sites:
 
 ## Wallet Pass
 ## contactify-wallet-pass-prod
-#  - name: PROD Contactify Wallet Pass API
-#    url: https://wallet-pass-api.contactify.biz/api/health
-#    __dangerous__body_degraded: "Degraded"
+  - name: PROD Contactify Wallet Pass API
+    url: https://walletpass.api.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ## contactify-wallet-pass-stage
-#  - name: STAGE Contactify Wallet Pass API
-#    url: https://wallet-pass-api.stage.contactify.biz/api/health
-#    __dangerous__body_degraded: "Degraded"
+  - name: STAGE Contactify Wallet Pass API
+    url: https://walletpass.api.stage.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
 
 ## contactify-wallet-pass-develop
   - name: DEV Contactify Wallet Pass API
-    url: https://wallet-pass-api.dev.contactify.biz/api/health
+    url: https://walletpass.api.dev.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## External
