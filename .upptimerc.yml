@@ -13,10 +13,7 @@ status-website:
 sites:
 # contactify
   - name: Contactify Website
-    url: https://www.contactify.biz
-# spaices
-  - name: Spaices Website
-    url: https://www.spaices.io
+    url: https://www.contactify.io
 
 # Digital Business Card
 ## Frontends
