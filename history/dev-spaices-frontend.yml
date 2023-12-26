@@ -1,7 +1,7 @@
 url: https://health.dev.spaices.app/health
-status: down
-code: 500
-responseTime: 325
-lastUpdated: 2023-12-26T21:07:13.833Z
+status: up
+code: 200
+responseTime: 345
+lastUpdated: 2023-12-26T21:19:27.196Z
 startTime: 2023-07-18T16:38:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
