@@ -39,13 +39,13 @@ sites:
 ## Gateway
 ### spaices-gw-prod
   - name: PROD Spaices Frontend
-    url: https://contactify.spaices.app/health
+    url: https://health.spaices.app/health
 ### spaices-gw-stage
   - name: STAGE Spaices Frontend
-    url: https://contactify.stage.spaices.app/health
+    url: https://health.stage.spaices.app/health
 ### spaices-gw-develop
   - name: DEV Spaices Frontend
-    url: https://contactify.dev.spaices.app/health
+    url: https://health.dev.spaices.app/health
 
 ### contactify-login-prod
   - name: PROD Login
