@@ -1,7 +1,7 @@
-url: https://health.spaices.app/health
-status: up
-code: 200
-responseTime: 556
-lastUpdated: 2023-12-26T23:02:55.037Z
+url: https://health.contactify.app/health
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-27T11:26:33.948Z
 startTime: 2023-07-18T16:38:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
