@@ -39,23 +39,23 @@ sites:
 ## Gateway
 ### spaices-gw-prod
   - name: PROD Spaices Frontend
-    url: https://health.spaices.app/health
+    url: https://health.contactify.app/health
 ### spaices-gw-stage
   - name: STAGE Spaices Frontend
-    url: https://health.stage.spaices.app/health
+    url: https://health.stage.contactify.app/health
 ### spaices-gw-develop
   - name: DEV Spaices Frontend
-    url: https://health.dev.spaices.app/health
+    url: https://health.dev.contactify.app/health
 
 ### contactify-login-prod
   - name: PROD Login
-    url: https://login.spaices.app
+    url: https://login.contactify.app
 ### contactify-login-stage
   - name: STAGE Login
-    url: https://login.stage.spaices.app
+    url: https://login.stage.contactify.app
 ### contactify-login-develop
   - name: DEV Login
-    url: https://login.dev.spaices.app
+    url: https://login.dev.contactify.app
 
 # General
 ## Backends
