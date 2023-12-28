@@ -107,18 +107,24 @@ sites:
 
 ## Wallet Pass
 ## contactify-wallet-pass-prod
-  - name: PROD Contactify Wallet Pass API
+  - name: PROD Contactify Wallet Pass API (old domain)
     url: https://walletpass.api.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+  - name: PROD Contactify Wallet Pass API
+    url: https://main.walletpass.api.prod.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## contactify-wallet-pass-stage
-  - name: STAGE Contactify Wallet Pass API
+  - name: STAGE Contactify Wallet Pass API (old domain)
     url: https://walletpass.api.stage.contactify.biz/api/health
+    __dangerous__body_degraded: "Degraded"
+  - name: STAGE Contactify Wallet Pass API
+    url: https://main.walletpass.api.stage.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## contactify-wallet-pass-develop
   - name: DEV Contactify Wallet Pass API
-    url: https://walletpass.api.dev.contactify.biz/api/health
+    url: https://main.walletpass.api.dev.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## External
