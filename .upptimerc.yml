@@ -35,16 +35,16 @@ sites:
   - name: STAGE Contactify Admin Frontend
     url: https://contacts-admin-test.contactify.biz
 
-# Spaices
+# V2
 ## Gateway
 ### spaices-gw-prod
-  - name: PROD Spaices Frontend
+  - name: PROD V2 Frontend
     url: https://health.contactify.app/health
 ### spaices-gw-stage
-  - name: STAGE Spaices Frontend
+  - name: STAGE V2 Frontend
     url: https://health.stage.contactify.app/health
 ### spaices-gw-develop
-  - name: DEV Spaices Frontend
+  - name: DEV V2 Frontend
     url: https://health.dev.contactify.app/health
 
 ### contactify-login-prod
@@ -107,17 +107,11 @@ sites:
 
 ## Wallet Pass
 ## contactify-wallet-pass-prod
-  - name: PROD Contactify Wallet Pass API (old domain)
-    url: https://walletpass.api.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
   - name: PROD Contactify Wallet Pass API
     url: https://main.walletpass.api.prod.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## contactify-wallet-pass-stage
-  - name: STAGE Contactify Wallet Pass API (old domain)
-    url: https://walletpass.api.stage.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
   - name: STAGE Contactify Wallet Pass API
     url: https://main.walletpass.api.stage.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
@@ -129,5 +123,5 @@ sites:
 
 ## External
 ### Passource
-  - name: Wallet Pass Generator
+  - name: Passource Wallet Pass Generator
     url: https://www.passsource.com/api/
