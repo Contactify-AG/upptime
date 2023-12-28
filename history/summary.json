@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 544,
-    "timeDay": 294,
-    "timeWeek": 274,
-    "timeMonth": 448,
-    "timeYear": 566,
+    "time": 543,
+    "timeDay": 238,
+    "timeWeek": 262,
+    "timeMonth": 441,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2023-01-20": 722,
       "2023-01-19": 56
@@ -621,8 +621,8 @@
     "slug": "dev-contactify-wallet-pass-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 631,
@@ -631,7 +631,7 @@
     "timeMonth": 620,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-12-28": 1,
+      "2023-12-28": 2,
       "2023-10-13": 40
     }
   },
