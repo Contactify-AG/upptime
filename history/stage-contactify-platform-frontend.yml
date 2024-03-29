@@ -1,7 +1,7 @@
 url: https://contacts-test.contactify.biz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-29T03:52:34.261Z
+status: up
+code: 200
+responseTime: 693
+lastUpdated: 2024-03-29T04:10:22.651Z
 startTime: 2023-06-05T07:01:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
