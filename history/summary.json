@@ -4,18 +4,20 @@
     "url": "https://www.contactify.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.contactify.io.ico",
     "slug": "contactify-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 508,
-    "timeDay": 193,
-    "timeWeek": 335,
-    "timeMonth": 278,
-    "timeYear": 527,
-    "dailyMinutesDown": {}
+    "timeDay": 167,
+    "timeWeek": 310,
+    "timeMonth": 274,
+    "timeYear": 526,
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "PROD Contactify Platform Frontend",
@@ -105,12 +107,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 660,
     "timeDay": 416,
-    "timeWeek": 591,
+    "timeWeek": 577,
     "timeMonth": 566,
     "timeYear": 660,
     "dailyMinutesDown": {
