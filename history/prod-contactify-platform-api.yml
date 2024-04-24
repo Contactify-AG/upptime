@@ -1,7 +1,7 @@
 url: https://contacts-api.contactify.biz/api/health
-status: up
-code: 200
-responseTime: 471
-lastUpdated: 2024-04-23T23:02:43.120Z
+status: down
+code: 500
+responseTime: 506
+lastUpdated: 2024-04-24T18:25:59.740Z
 startTime: 2022-04-27T12:56:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
