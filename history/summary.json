@@ -22,9 +22,9 @@
     "url": "https://contacts.contactify.biz",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.contactify.biz.ico",
     "slug": "prod-contactify-platform-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 918,
     "timeYear": 672,
     "dailyMinutesDown": {
+      "2024-06-28": 0,
       "2023-12-29": 61
     }
   },
@@ -104,18 +105,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/contacts-test.contactify.biz.ico",
     "slug": "stage-contactify-platform-frontend",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 638,
     "timeDay": 697,
     "timeWeek": 668,
     "timeMonth": 575,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-06-27": 7,
       "2024-03-29": 18,
       "2023-12-29": 60
     }
