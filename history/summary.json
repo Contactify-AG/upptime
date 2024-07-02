@@ -163,19 +163,19 @@
     "url": "https://health.stage.contactify.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/health.stage.contactify.app.ico",
     "slug": "stage-v2-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 10406,
-    "timeWeek": 2987,
-    "timeMonth": 1094,
+    "timeDay": 7134,
+    "timeWeek": 2720,
+    "timeMonth": 1078,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-07-02": 1
+      "2024-07-02": 8
     }
   },
   {
