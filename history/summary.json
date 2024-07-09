@@ -171,7 +171,7 @@
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 373,
-    "timeWeek": 2675,
+    "timeWeek": 443,
     "timeMonth": 1084,
     "timeYear": 544,
     "dailyMinutesDown": {}
@@ -181,18 +181,20 @@
     "url": "https://health.dev.contactify.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/health.dev.contactify.app.ico",
     "slug": "dev-v2-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 381,
-    "timeWeek": 413,
-    "timeMonth": 441,
-    "timeYear": 428,
-    "dailyMinutesDown": {}
+    "time": 429,
+    "timeDay": 475,
+    "timeWeek": 433,
+    "timeMonth": 445,
+    "timeYear": 429,
+    "dailyMinutesDown": {
+      "2024-07-09": 1
+    }
   },
   {
     "name": "PROD Login",
