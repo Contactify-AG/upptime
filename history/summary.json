@@ -183,9 +183,9 @@
     "slug": "dev-v2-frontend",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 428,
     "timeDay": 472,
@@ -193,7 +193,7 @@
     "timeMonth": 446,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 12
     }
   },
   {
@@ -386,10 +386,10 @@
     "url": "https://contacts-api.stage.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api.stage.contactify.biz.ico",
     "slug": "stage-contactify-platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.79%",
     "time": 919,
@@ -398,6 +398,7 @@
     "timeMonth": 616,
     "timeYear": 895,
     "dailyMinutesDown": {
+      "2024-07-12": 1,
       "2024-06-29": 19,
       "2024-06-23": 43,
       "2024-05-31": 23,
