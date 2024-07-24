@@ -182,18 +182,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.dev.contactify.app.ico",
     "slug": "dev-v2-frontend",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
     "time": 611,
     "timeDay": 10392,
     "timeWeek": 4405,
     "timeMonth": 1516,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-07-23": 11,
       "2024-07-12": 66
     }
   },
