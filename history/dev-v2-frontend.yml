@@ -1,7 +1,7 @@
 url: https://health.dev.contactify.app/health
-status: down
-code: 502
-responseTime: 345
-lastUpdated: 2024-08-14T12:45:09.515Z
+status: up
+code: 200
+responseTime: 638
+lastUpdated: 2024-08-14T14:06:49.627Z
 startTime: 2023-12-28T10:35:32.666Z
 generator: Upptime <https://github.com/upptime/upptime>
