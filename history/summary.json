@@ -270,9 +270,9 @@
     "slug": "prod-contactify-platform-api",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1209,
     "timeDay": 5491,
@@ -280,7 +280,6 @@
     "timeMonth": 2697,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2024-08-27": 7,
       "2024-07-20": 304,
       "2024-07-18": 74,
       "2024-07-15": 90,
@@ -531,7 +530,7 @@
     "time": 823,
     "timeDay": 515,
     "timeWeek": 535,
-    "timeMonth": 566,
+    "timeMonth": 569,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2024-05-31": 23,
@@ -549,10 +548,10 @@
     "url": "https://main.walletpass.api.prod.contactify.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/main.walletpass.api.prod.contactify.app.ico",
     "slug": "prod-contactify-wallet-pass-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 655,
@@ -561,6 +560,7 @@
     "timeMonth": 565,
     "timeYear": 655,
     "dailyMinutesDown": {
+      "2024-08-27": 1,
       "2024-03-05": 15,
       "2023-10-13": 159
     }
