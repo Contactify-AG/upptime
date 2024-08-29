@@ -612,10 +612,10 @@
     "url": "https://www.passsource.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/www.passsource.com.ico",
     "slug": "passource-wallet-pass-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
@@ -623,6 +623,8 @@
     "timeWeek": 208,
     "timeMonth": 234,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-29": 1
+    }
   }
 ]
