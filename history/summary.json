@@ -4,19 +4,19 @@
     "url": "https://www.contactify.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.contactify.io.ico",
     "slug": "contactify-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 288,
-    "timeWeek": 301,
-    "timeMonth": 317,
-    "timeYear": 316,
+    "time": 329,
+    "timeDay": 406,
+    "timeWeek": 339,
+    "timeMonth": 327,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 13
     }
   },
   {
