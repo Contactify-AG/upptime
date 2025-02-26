@@ -1,7 +1,7 @@
 url: https://www.contactify.io
-status: up
-code: 200
-responseTime: 269
-lastUpdated: 2025-02-25T23:02:37.404Z
+status: down
+code: 406
+responseTime: 163
+lastUpdated: 2025-02-26T18:50:37.233Z
 startTime: 2022-04-27T09:39:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
