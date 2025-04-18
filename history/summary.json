@@ -45,9 +45,9 @@
     "url": "https://contacts-admin.contactify.biz",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin.contactify.biz.ico",
     "slug": "prod-contactify-admin-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 564,
     "timeYear": 580,
     "dailyMinutesDown": {
+      "2025-04-18": 0,
       "2024-07-26": 43,
       "2024-06-27": 16
     }
@@ -560,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.passsource.com.ico",
     "slug": "passource-wallet-pass-generator",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
