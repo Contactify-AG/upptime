@@ -1,7 +1,7 @@
 url: https://scim-api.dev.contactify.biz/api/health
-status: up
-code: 200
-responseTime: 634
-lastUpdated: 2025-10-10T23:03:15.365Z
+status: down
+code: 503
+responseTime: 7644
+lastUpdated: 2025-10-10T23:16:26.840Z
 startTime: 2023-02-16T09:22:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
