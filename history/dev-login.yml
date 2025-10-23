@@ -1,7 +1,7 @@
 url: https://login.dev.contactify.app
-status: down
-code: 502
-responseTime: 395
-lastUpdated: 2025-10-22T23:03:13.004Z
+status: up
+code: 200
+responseTime: 665
+lastUpdated: 2025-10-23T03:26:19.330Z
 startTime: 2023-07-18T17:13:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
