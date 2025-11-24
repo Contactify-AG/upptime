@@ -23,12 +23,6 @@ sites:
   - name: PROD Contactify Admin Frontend
     url: https://contacts-admin.contactify.biz
 
-### contactify-develop
-  - name: DEV Contactify Platform Frontend
-    url: https://contacts.dev.contactify.biz
-  - name: DEV Contactify Admin Frontend
-    url: https://contacts-admin.dev.contactify.biz
-
 ### contactify-dev
   - name: STAGE Contactify Platform Frontend
     url: https://contacts-test.contactify.biz
@@ -43,9 +37,6 @@ sites:
 ### spaices-gw-stage
   - name: STAGE V2 Frontend
     url: https://health.stage.contactify.app/health
-### spaices-gw-develop
-  - name: DEV V2 Frontend
-    url: https://health.dev.contactify.app/health
 
 ### contactify-login-prod
   - name: PROD Login
@@ -53,9 +44,6 @@ sites:
 ### contactify-login-stage
   - name: STAGE Login
     url: https://login.stage.contactify.app
-### contactify-login-develop
-  - name: DEV Login
-    url: https://login.dev.contactify.app
 
 # General
 ## Backends
@@ -67,16 +55,6 @@ sites:
 ### contactify-admin-api-prod
   - name: PROD Contactify Admin API
     url: https://contacts-admin-api.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
-
-### contactify-platform-api-develop
-  - name: DEV Contactify Platform API
-    url: https://contacts-api.dev.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
-
-### contactify-admin-api-develop
-  - name: DEV Contactify Admin API
-    url: https://contacts-admin-api.dev.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
 ### contactify-platform-api-dev
@@ -95,11 +73,6 @@ sites:
     url: https://scim-api.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
-## contactify-scim-api-develop
-  - name: DEV Contactify SCIM API
-    url: https://scim-api.dev.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
-
 ## contactify-scim-api-dev
   - name: STAGE Contactify SCIM API
     url: https://scim-api.stage.contactify.biz/api/health
@@ -114,11 +87,6 @@ sites:
 ## contactify-wallet-pass-stage
   - name: STAGE Contactify Wallet Pass API
     url: https://main.walletpass.api.stage.contactify.app/api/health
-    __dangerous__body_degraded: "Degraded"
-
-## contactify-wallet-pass-develop
-  - name: DEV Contactify Wallet Pass API
-    url: https://main.walletpass.api.dev.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## External
