@@ -4,9 +4,9 @@
     "url": "https://www.contactify.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.contactify.io.ico",
     "slug": "contactify-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 328,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2025-12-20": 0,
       "2025-12-05": 26,
       "2025-02-11": 19
     }
@@ -172,7 +173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.stage.contactify.app.ico",
     "slug": "stage-login",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -366,7 +367,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/main.walletpass.api.prod.contactify.app.ico",
     "slug": "prod-contactify-wallet-pass-api",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
