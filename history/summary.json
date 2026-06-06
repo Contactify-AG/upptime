@@ -189,16 +189,16 @@
     "url": "https://contacts-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api.contactify.biz.ico",
     "slug": "prod-contactify-platform-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
     "time": 711,
-    "timeDay": 3232,
-    "timeWeek": 1229,
-    "timeMonth": 901,
+    "timeDay": 2362,
+    "timeWeek": 1162,
+    "timeMonth": 893,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2025-06-25": 58,
@@ -208,7 +208,7 @@
       "2025-12-17": 17,
       "2026-02-28": 32,
       "2026-04-22": 44,
-      "2026-06-06": 52
+      "2026-06-06": 69
     }
   },
   {
@@ -216,16 +216,16 @@
     "url": "https://contacts-admin-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-api.contactify.biz.ico",
     "slug": "prod-contactify-admin-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.92%",
-    "time": 655,
-    "timeDay": 3345,
-    "timeWeek": 1265,
-    "timeMonth": 765,
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.91%",
+    "time": 656,
+    "timeDay": 2429,
+    "timeWeek": 1190,
+    "timeMonth": 760,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2025-06-25": 68,
@@ -234,7 +234,7 @@
       "2025-12-15": 45,
       "2025-12-17": 15,
       "2026-02-28": 32,
-      "2026-06-06": 52
+      "2026-06-06": 69
     }
   },
   {
@@ -242,16 +242,16 @@
     "url": "https://contacts-api.stage.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api.stage.contactify.biz.ico",
     "slug": "stage-contactify-platform-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
     "time": 688,
-    "timeDay": 3196,
-    "timeWeek": 1198,
-    "timeMonth": 734,
+    "timeDay": 2316,
+    "timeWeek": 1127,
+    "timeMonth": 728,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2025-06-25": 139,
@@ -260,7 +260,7 @@
       "2025-12-15": 45,
       "2026-02-28": 32,
       "2026-04-22": 43,
-      "2026-06-06": 51
+      "2026-06-06": 68
     }
   },
   {
@@ -268,17 +268,17 @@
     "url": "https://contacts-admin-api.stage.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-api.stage.contactify.biz.ico",
     "slug": "stage-contactify-admin-api",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.89%",
     "time": 725,
-    "timeDay": 3207,
-    "timeWeek": 1203,
-    "timeMonth": 744,
-    "timeYear": 674,
+    "timeDay": 2314,
+    "timeWeek": 1128,
+    "timeMonth": 737,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2025-06-25": 137,
       "2025-08-18": 23,
@@ -286,7 +286,7 @@
       "2025-12-15": 45,
       "2026-02-28": 31,
       "2026-03-09": 19,
-      "2026-06-06": 51
+      "2026-06-06": 68
     }
   },
   {
@@ -294,17 +294,17 @@
     "url": "https://scim-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/scim-api.contactify.biz.ico",
     "slug": "prod-contactify-scim-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.90%",
     "time": 629,
-    "timeDay": 3224,
-    "timeWeek": 1454,
-    "timeMonth": 883,
-    "timeYear": 646,
+    "timeDay": 2335,
+    "timeWeek": 1354,
+    "timeMonth": 873,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-06-25": 136,
       "2025-07-03": 16,
@@ -312,7 +312,7 @@
       "2025-09-27": 196,
       "2025-12-15": 45,
       "2026-02-28": 31,
-      "2026-06-06": 50
+      "2026-06-06": 67
     }
   },
   {
@@ -320,24 +320,24 @@
     "url": "https://scim-api.stage.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/scim-api.stage.contactify.biz.ico",
     "slug": "stage-contactify-scim-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
     "time": 665,
-    "timeDay": 3227,
-    "timeWeek": 1207,
-    "timeMonth": 728,
-    "timeYear": 647,
+    "timeDay": 2327,
+    "timeWeek": 1132,
+    "timeMonth": 722,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2025-06-25": 133,
       "2025-08-18": 23,
       "2025-09-27": 231,
       "2025-12-15": 45,
       "2026-02-28": 31,
-      "2026-06-06": 50
+      "2026-06-06": 67
     }
   },
   {
