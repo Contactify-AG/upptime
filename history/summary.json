@@ -111,19 +111,20 @@
     "url": "https://health.contactify.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/health.contactify.app.ico",
     "slug": "prod-v2-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 470,
-    "timeDay": 398,
-    "timeWeek": 433,
-    "timeMonth": 443,
+    "timeDay": 466,
+    "timeWeek": 446,
+    "timeMonth": 445,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-09-27": 211
+      "2025-09-27": 211,
+      "2026-07-01": 1
     }
   },
   {
@@ -151,19 +152,20 @@
     "url": "https://login.contactify.app",
     "icon": "https://icons.duckduckgo.com/ip3/login.contactify.app.ico",
     "slug": "prod-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 678,
-    "timeDay": 638,
-    "timeWeek": 664,
-    "timeMonth": 665,
+    "time": 677,
+    "timeDay": 545,
+    "timeWeek": 638,
+    "timeMonth": 658,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2025-09-27": 210
+      "2025-09-27": 210,
+      "2026-07-01": 1
     }
   },
   {
