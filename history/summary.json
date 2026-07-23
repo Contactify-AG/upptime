@@ -112,11 +112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/health.contactify.app.ico",
     "slug": "prod-v2-frontend",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "79.20%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.95%",
+    "uptimeDay": "75.41%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.88%",
     "time": 470,
     "timeDay": 435,
     "timeWeek": 427,
@@ -125,7 +125,7 @@
     "dailyMinutesDown": {
       "2025-09-27": 211,
       "2026-07-01": 82,
-      "2026-07-23": 300
+      "2026-07-23": 354
     }
   },
   {
@@ -155,10 +155,10 @@
     "slug": "prod-login",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "79.21%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "75.42%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.88%",
     "time": 677,
     "timeDay": 534,
     "timeWeek": 606,
@@ -167,7 +167,7 @@
     "dailyMinutesDown": {
       "2025-09-27": 210,
       "2026-07-01": 81,
-      "2026-07-23": 299
+      "2026-07-23": 354
     }
   },
   {
@@ -393,16 +393,16 @@
     "url": "https://www.passsource.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/www.passsource.com.ico",
     "slug": "passource-wallet-pass-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.93%",
     "time": 608,
-    "timeDay": 9879,
-    "timeWeek": 4535,
-    "timeMonth": 1453,
+    "timeDay": 6742,
+    "timeWeek": 4128,
+    "timeMonth": 1423,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2025-11-18": 105,
@@ -411,7 +411,7 @@
       "2026-04-14": 29,
       "2026-05-21": 70,
       "2026-07-17": 43,
-      "2026-07-23": 1
+      "2026-07-23": 55
     }
   }
 ]
