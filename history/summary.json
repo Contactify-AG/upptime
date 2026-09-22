@@ -359,9 +359,9 @@
     "slug": "prod-contactify-wallet-pass-api",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 578,
     "timeDay": 475,
@@ -372,8 +372,7 @@
       "2025-09-27": 195,
       "2025-10-23": 158,
       "2025-10-22": 134,
-      "2026-04-02": 18,
-      "2026-09-21": 5
+      "2026-04-02": 18
     }
   },
   {
