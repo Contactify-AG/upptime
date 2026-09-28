@@ -184,16 +184,16 @@
     "url": "https://contacts-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api.contactify.biz.ico",
     "slug": "prod-contactify-platform-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 686,
-    "timeDay": 3469,
-    "timeWeek": 1276,
-    "timeMonth": 1027,
+    "timeDay": 2623,
+    "timeWeek": 1238,
+    "timeMonth": 1025,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2025-12-15": 45,
@@ -202,7 +202,7 @@
       "2026-04-22": 44,
       "2026-06-06": 69,
       "2026-09-04": 17,
-      "2026-09-28": 2
+      "2026-09-28": 8
     }
   },
   {
@@ -210,16 +210,16 @@
     "url": "https://contacts-admin-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-api.contactify.biz.ico",
     "slug": "prod-contactify-admin-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 791,
-    "timeDay": 3553,
-    "timeWeek": 1309,
-    "timeMonth": 2461,
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 792,
+    "timeDay": 2593,
+    "timeWeek": 1238,
+    "timeMonth": 2415,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2025-12-15": 45,
@@ -227,7 +227,7 @@
       "2026-02-28": 32,
       "2026-06-06": 69,
       "2026-09-04": 16,
-      "2026-09-28": 1
+      "2026-09-28": 8
     }
   },
   {
@@ -291,23 +291,23 @@
     "url": "https://scim-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/scim-api.contactify.biz.ico",
     "slug": "prod-contactify-scim-api",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 665,
-    "timeDay": 3298,
-    "timeWeek": 1506,
-    "timeMonth": 1094,
-    "timeYear": 691,
+    "time": 666,
+    "timeDay": 2536,
+    "timeWeek": 1451,
+    "timeMonth": 1092,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2025-12-15": 45,
       "2026-02-28": 31,
       "2026-06-06": 67,
       "2026-09-04": 16,
-      "2026-09-28": 1
+      "2026-09-28": 7
     }
   },
   {
