@@ -13,7 +13,7 @@
     "time": 405,
     "timeDay": 659,
     "timeWeek": 813,
-    "timeMonth": 745,
+    "timeMonth": 747,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-12-05": 26,
@@ -35,7 +35,7 @@
     "time": 579,
     "timeDay": 626,
     "timeWeek": 574,
-    "timeMonth": 546,
+    "timeMonth": 549,
     "timeYear": 576,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "time": 562,
     "timeDay": 635,
     "timeWeek": 576,
-    "timeMonth": 544,
+    "timeMonth": 549,
     "timeYear": 567,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 559,
     "timeDay": 621,
     "timeWeek": 563,
-    "timeMonth": 533,
+    "timeMonth": 537,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-10-23": 158,
@@ -93,7 +93,7 @@
     "time": 565,
     "timeDay": 607,
     "timeWeek": 551,
-    "timeMonth": 534,
+    "timeMonth": 538,
     "timeYear": 573,
     "dailyMinutesDown": {}
   },
@@ -111,7 +111,7 @@
     "time": 471,
     "timeDay": 552,
     "timeWeek": 471,
-    "timeMonth": 451,
+    "timeMonth": 454,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-07-01": 82,
@@ -134,7 +134,7 @@
     "time": 473,
     "timeDay": 522,
     "timeWeek": 478,
-    "timeMonth": 450,
+    "timeMonth": 452,
     "timeYear": 477,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 682,
     "timeDay": 792,
     "timeWeek": 707,
-    "timeMonth": 682,
+    "timeMonth": 688,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-07-01": 81,
@@ -175,7 +175,7 @@
     "time": 689,
     "timeDay": 748,
     "timeWeek": 701,
-    "timeMonth": 681,
+    "timeMonth": 682,
     "timeYear": 687,
     "dailyMinutesDown": {}
   },
@@ -184,24 +184,25 @@
     "url": "https://contacts-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-api.contactify.biz.ico",
     "slug": "prod-contactify-platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 674,
-    "timeDay": 622,
-    "timeWeek": 556,
-    "timeMonth": 865,
-    "timeYear": 700,
+    "time": 686,
+    "timeDay": 3469,
+    "timeWeek": 1276,
+    "timeMonth": 1027,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2025-12-15": 45,
       "2025-12-17": 17,
       "2026-02-28": 32,
       "2026-04-22": 44,
       "2026-06-06": 69,
-      "2026-09-04": 17
+      "2026-09-04": 17,
+      "2026-09-28": 2
     }
   },
   {
@@ -209,23 +210,24 @@
     "url": "https://contacts-admin-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/contacts-admin-api.contactify.biz.ico",
     "slug": "prod-contactify-admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 780,
-    "timeDay": 595,
-    "timeWeek": 566,
-    "timeMonth": 2301,
-    "timeYear": 836,
+    "time": 791,
+    "timeDay": 3553,
+    "timeWeek": 1309,
+    "timeMonth": 2461,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2025-12-15": 45,
       "2025-12-17": 15,
       "2026-02-28": 32,
       "2026-06-06": 69,
-      "2026-09-04": 16
+      "2026-09-04": 16,
+      "2026-09-28": 1
     }
   },
   {
@@ -242,7 +244,7 @@
     "time": 672,
     "timeDay": 622,
     "timeWeek": 560,
-    "timeMonth": 884,
+    "timeMonth": 897,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-12-15": 45,
@@ -267,7 +269,7 @@
     "time": 670,
     "timeDay": 596,
     "timeWeek": 546,
-    "timeMonth": 884,
+    "timeMonth": 897,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-12-15": 45,
@@ -289,22 +291,23 @@
     "url": "https://scim-api.contactify.biz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/scim-api.contactify.biz.ico",
     "slug": "prod-contactify-scim-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 654,
-    "timeDay": 624,
-    "timeWeek": 868,
-    "timeMonth": 939,
-    "timeYear": 677,
+    "time": 665,
+    "timeDay": 3298,
+    "timeWeek": 1506,
+    "timeMonth": 1094,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-12-15": 45,
       "2026-02-28": 31,
       "2026-06-06": 67,
-      "2026-09-04": 16
+      "2026-09-04": 16,
+      "2026-09-28": 1
     }
   },
   {
@@ -321,7 +324,7 @@
     "time": 653,
     "timeDay": 627,
     "timeWeek": 558,
-    "timeMonth": 948,
+    "timeMonth": 963,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2025-12-15": 45,
@@ -345,7 +348,7 @@
     "time": 578,
     "timeDay": 614,
     "timeWeek": 574,
-    "timeMonth": 575,
+    "timeMonth": 580,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2025-10-23": 158,
@@ -367,7 +370,7 @@
     "time": 576,
     "timeDay": 640,
     "timeWeek": 586,
-    "timeMonth": 562,
+    "timeMonth": 566,
     "timeYear": 577,
     "dailyMinutesDown": {}
   },
@@ -385,7 +388,7 @@
     "time": 608,
     "timeDay": 298,
     "timeWeek": 215,
-    "timeMonth": 242,
+    "timeMonth": 247,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2025-11-18": 105,
