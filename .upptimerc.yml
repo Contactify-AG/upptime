@@ -34,16 +34,10 @@ sites:
 ### spaices-gw-prod
   - name: PROD V2 Frontend
     url: https://health.contactify.app/health
-### spaices-gw-stage
-  - name: STAGE V2 Frontend
-    url: https://health.stage.contactify.app/health
 
 ### contactify-login-prod
   - name: PROD Login
     url: https://login.contactify.app
-### contactify-login-stage
-  - name: STAGE Login
-    url: https://login.stage.contactify.app
 
 # General
 ## Backends
@@ -57,36 +51,16 @@ sites:
     url: https://contacts-admin-api.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
-### contactify-platform-api-dev
-  - name: STAGE Contactify Platform API
-    url: https://contacts-api.stage.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
-
-### contactify-admin-api-dev
-  - name: STAGE Contactify Admin API
-    url: https://contacts-admin-api.stage.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
-
 ## SCIM
 ## contactify-scim-api-prod
   - name: PROD Contactify SCIM API
     url: https://scim-api.contactify.biz/api/health
     __dangerous__body_degraded: "Degraded"
 
-## contactify-scim-api-dev
-  - name: STAGE Contactify SCIM API
-    url: https://scim-api.stage.contactify.biz/api/health
-    __dangerous__body_degraded: "Degraded"
-
 ## Wallet Pass
 ## contactify-wallet-pass-prod
   - name: PROD Contactify Wallet Pass API
     url: https://main.walletpass.api.prod.contactify.app/api/health
-    __dangerous__body_degraded: "Degraded"
-
-## contactify-wallet-pass-stage
-  - name: STAGE Contactify Wallet Pass API
-    url: https://main.walletpass.api.stage.contactify.app/api/health
     __dangerous__body_degraded: "Degraded"
 
 ## External
