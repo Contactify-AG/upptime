@@ -1,7 +1,7 @@
 url: https://login.stage.contactify.app
-status: down
-code: 502
-responseTime: 304
-lastUpdated: 2026-11-13T14:32:03.218Z
+status: up
+code: 200
+responseTime: 745
+lastUpdated: 2026-11-13T14:39:51.097Z
 startTime: 2023-07-18T17:13:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
