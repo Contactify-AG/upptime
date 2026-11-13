@@ -121,18 +121,20 @@
     "url": "https://health.stage.contactify.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/health.stage.contactify.app.ico",
     "slug": "stage-v2-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 476,
-    "timeDay": 431,
-    "timeWeek": 508,
-    "timeMonth": 490,
+    "timeDay": 368,
+    "timeWeek": 482,
+    "timeMonth": 484,
     "timeYear": 481,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-13": 1
+    }
   },
   {
     "name": "PROD Login",
@@ -162,18 +164,20 @@
     "url": "https://login.stage.contactify.app",
     "icon": "https://icons.duckduckgo.com/ip3/login.stage.contactify.app.ico",
     "slug": "stage-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 746,
-    "timeWeek": 808,
-    "timeMonth": 723,
-    "timeYear": 694,
-    "dailyMinutesDown": {}
+    "time": 687,
+    "timeDay": 525,
+    "timeWeek": 745,
+    "timeMonth": 710,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2026-11-13": 1
+    }
   },
   {
     "name": "PROD Contactify Platform API",
