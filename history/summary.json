@@ -382,17 +382,17 @@
     "url": "https://www.passsource.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/www.passsource.com.ico",
     "slug": "passource-wallet-pass-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 618,
-    "timeDay": 151,
-    "timeWeek": 260,
-    "timeMonth": 374,
-    "timeYear": 656,
+    "time": 617,
+    "timeDay": 147,
+    "timeWeek": 245,
+    "timeMonth": 366,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2025-11-18": 105,
       "2025-11-21": 17,
@@ -400,7 +400,8 @@
       "2026-04-14": 29,
       "2026-05-21": 70,
       "2026-07-17": 43,
-      "2026-07-23": 55
+      "2026-07-23": 55,
+      "2026-11-17": 1
     }
   }
 ]
